@@ -1,0 +1,61 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: url("https://cdn.pixabay.com/photo/2020/05/27/09/16/cube-5226448_1280.jpg");
+  background-position: center;
+  background-size: cover;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+h1{
+  color: white;
+  font-size: 100px;
+  margin: -104px -59px;
+}
+
+input{
+  border-radius: 20px;
+  font-size: 25px;
+  position:relative;
+  /* top:-425px; */
+  font-family: 'Baloo Bhai 2', cursive;
+  text-align:center;
+  border: 3px solid black;
+  font-weight:10px;
+}
+
+button{
+  border-radius: 20px;
+  font-size: 25px;
+  border: 2px solid black;
+  background-color: transparent;
+  font-family: 'Lobster', cursive;
+}
+button:hover{
+  background-color: white;
+}
+
+p{
+  /* position:relative; */
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 30px;
+  
+  /* padding:0px 100px; 
+  left:0px;  */
+}
+
+/* #ins{
+   padding:0px 10px; 
+   top:300px;
+}
+
+#in li{
+  position: relative;
+  left: 30px;
+  font-size: 40px;
+  top: 275px;
+  font-weight:300;
+} */
+
+
+
+
